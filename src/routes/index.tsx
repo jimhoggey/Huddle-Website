@@ -1160,6 +1160,16 @@ export default function HuddleLanding() {
             {' · '}
             <a href="#early-access" className="hover:text-[#7C3AED] transition-colors duration-300">Get in touch</a>
           </p>
+          <p className="text-[#9ca3af] text-xs mt-4">
+            A{' '}
+            <a
+              href="https://fynnprojects.com.au/"
+              className="text-[#6b7280] underline underline-offset-2 hover:text-[#7C3AED] transition-colors duration-300"
+            >
+              Fynn Projects
+            </a>
+            {' '}creation
+          </p>
         </div>
       </footer>
 
